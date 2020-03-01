@@ -31,4 +31,5 @@ def create_project_hash
   # return the projects hash
   projects
 end
+binding.pry
   
